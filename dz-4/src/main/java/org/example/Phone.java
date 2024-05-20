@@ -5,7 +5,7 @@ public class Phone {
     int price = 1200;
     char currency = '$';
 
-   public Phone(String phoneBrand, int price, char currency) {
+    public Phone(String phoneBrand, int price, char currency) {
         System.out.printf("phone1 %s has price %d %s \n", this.phoneBrand, this.price, this.currency);
         this.phoneBrand = phoneBrand;
         this.price = price;

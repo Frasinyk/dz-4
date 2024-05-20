@@ -5,7 +5,7 @@ public class Main {
 //        просто розбиралась
 //        Phone iphone = new Phone("samsung", 900, '$');
 //        System.out.printf("phone %s has price %d %s \n", iphone.phoneBrand, iphone.price, iphone.currency);
-    Number num = new Number();
-        System.out.printf("~~~%s~~~\n",num.getNum());
+        Number num = new Number();
+        System.out.printf("~~~%s~~~\n", num.getNum());
     }
 }
